@@ -1,0 +1,7 @@
+C:\Users\thaya\source\repos\Aula_12_08_2019\bin\Debug\Aula_12_08_2019.exe.config
+C:\Users\thaya\source\repos\Aula_12_08_2019\bin\Debug\Aula_12_08_2019.exe
+C:\Users\thaya\source\repos\Aula_12_08_2019\bin\Debug\Aula_12_08_2019.pdb
+C:\Users\thaya\source\repos\Aula_12_08_2019\obj\Debug\Aula_12_08_2019.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\Aula_12_08_2019\obj\Debug\Aula_12_08_2019.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\Aula_12_08_2019\obj\Debug\Aula_12_08_2019.exe
+C:\Users\thaya\source\repos\Aula_12_08_2019\obj\Debug\Aula_12_08_2019.pdb
