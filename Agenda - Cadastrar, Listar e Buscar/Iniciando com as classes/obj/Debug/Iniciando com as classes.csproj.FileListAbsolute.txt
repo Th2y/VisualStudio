@@ -1,0 +1,7 @@
+C:\Users\thaya\source\repos\Iniciando com as classes\bin\Debug\Iniciando com as classes.exe.config
+C:\Users\thaya\source\repos\Iniciando com as classes\bin\Debug\Iniciando com as classes.exe
+C:\Users\thaya\source\repos\Iniciando com as classes\bin\Debug\Iniciando com as classes.pdb
+C:\Users\thaya\source\repos\Iniciando com as classes\obj\Debug\Iniciando com as classes.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\Iniciando com as classes\obj\Debug\Iniciando com as classes.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\Iniciando com as classes\obj\Debug\Iniciando com as classes.exe
+C:\Users\thaya\source\repos\Iniciando com as classes\obj\Debug\Iniciando com as classes.pdb
