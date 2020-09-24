@@ -1,0 +1,7 @@
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\bin\Debug\Exercícios 14.05.2019.exe.config
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\bin\Debug\Exercícios 14.05.2019.exe
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\bin\Debug\Exercícios 14.05.2019.pdb
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\obj\Debug\Exercícios 14.05.2019.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\obj\Debug\Exercícios 14.05.2019.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\obj\Debug\Exercícios 14.05.2019.exe
+C:\Users\thaya\source\repos\Exercícios 14.05.2019\obj\Debug\Exercícios 14.05.2019.pdb
