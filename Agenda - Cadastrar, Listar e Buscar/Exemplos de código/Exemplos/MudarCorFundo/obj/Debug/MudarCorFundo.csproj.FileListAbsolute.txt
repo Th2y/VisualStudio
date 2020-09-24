@@ -1,0 +1,13 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\bin\Debug\MudarCorFundo.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorFundo\obj\Debug\MudarCorFundo.pdb

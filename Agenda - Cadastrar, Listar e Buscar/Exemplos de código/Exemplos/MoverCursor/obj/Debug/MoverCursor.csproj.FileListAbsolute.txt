@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\bin\Debug\MoverCursor.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursor\obj\Debug\MoverCursor.pdb

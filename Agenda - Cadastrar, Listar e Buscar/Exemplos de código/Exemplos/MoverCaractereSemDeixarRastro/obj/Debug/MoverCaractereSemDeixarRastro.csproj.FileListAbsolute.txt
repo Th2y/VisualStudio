@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.csprojAssemblyReference.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\bin\Debug\MoverCaractereSemDeixarRastro.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereSemDeixarRastro\obj\Debug\MoverCaractereSemDeixarRastro.pdb

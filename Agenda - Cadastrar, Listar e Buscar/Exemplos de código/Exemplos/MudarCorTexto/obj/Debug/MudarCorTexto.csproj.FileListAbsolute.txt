@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.csprojAssemblyReference.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\bin\Debug\MudarCorTexto.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MudarCorTexto\obj\Debug\MudarCorTexto.pdb

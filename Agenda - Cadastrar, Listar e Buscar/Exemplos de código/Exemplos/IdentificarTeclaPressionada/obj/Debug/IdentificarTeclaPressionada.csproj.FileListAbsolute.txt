@@ -1,0 +1,12 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\bin\Debug\IdentificarTeclaPressionada.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\IdentificarTeclaPressionada\obj\Debug\IdentificarTeclaPressionada.pdb

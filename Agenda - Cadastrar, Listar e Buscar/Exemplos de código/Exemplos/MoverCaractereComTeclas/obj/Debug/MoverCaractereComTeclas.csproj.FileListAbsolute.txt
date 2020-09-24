@@ -1,0 +1,12 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\bin\Debug\MoverCaractereComTeclas.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCaractereComTeclas\obj\Debug\MoverCaractereComTeclas.pdb

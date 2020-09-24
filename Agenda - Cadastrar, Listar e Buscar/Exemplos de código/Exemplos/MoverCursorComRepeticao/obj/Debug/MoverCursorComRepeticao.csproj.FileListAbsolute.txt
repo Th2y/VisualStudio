@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.csprojAssemblyReference.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\bin\Debug\MoverCursorComRepeticao.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\MoverCursorComRepeticao\obj\Debug\MoverCursorComRepeticao.pdb

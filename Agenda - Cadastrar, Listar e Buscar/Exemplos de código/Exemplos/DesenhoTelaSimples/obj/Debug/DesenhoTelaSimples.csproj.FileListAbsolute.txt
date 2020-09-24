@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.csprojAssemblyReference.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\bin\Debug\DesenhoTelaSimples.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\DesenhoTelaSimples\obj\Debug\DesenhoTelaSimples.pdb

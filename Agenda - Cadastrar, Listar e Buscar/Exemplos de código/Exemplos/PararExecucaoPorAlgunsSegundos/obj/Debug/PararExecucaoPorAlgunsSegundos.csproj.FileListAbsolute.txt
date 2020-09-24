@@ -1,0 +1,14 @@
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.exe.config
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.pdb
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.csprojAssemblyReference.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.csproj.CoreCompileInputs.cache
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.exe
+C:\Users\15989\Desktop\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.exe.config
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\bin\Debug\PararExecucaoPorAlgunsSegundos.pdb
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.csprojAssemblyReference.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.csproj.CoreCompileInputs.cache
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.exe
+C:\Users\15989\Downloads\Exemplos de código\Exemplos\PararExecucaoPorAlgunsSegundos\obj\Debug\PararExecucaoPorAlgunsSegundos.pdb
