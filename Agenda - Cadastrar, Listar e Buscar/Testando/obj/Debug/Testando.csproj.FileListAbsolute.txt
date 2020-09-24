@@ -1,0 +1,7 @@
+C:\Users\thaya\source\repos\Testando\bin\Debug\Testando.exe.config
+C:\Users\thaya\source\repos\Testando\bin\Debug\Testando.exe
+C:\Users\thaya\source\repos\Testando\bin\Debug\Testando.pdb
+C:\Users\thaya\source\repos\Testando\obj\Debug\Testando.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\Testando\obj\Debug\Testando.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\Testando\obj\Debug\Testando.exe
+C:\Users\thaya\source\repos\Testando\obj\Debug\Testando.pdb
