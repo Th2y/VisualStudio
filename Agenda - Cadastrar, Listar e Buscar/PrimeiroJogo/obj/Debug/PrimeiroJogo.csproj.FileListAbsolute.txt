@@ -1,0 +1,14 @@
+C:\Users\thaya\source\repos\PrimeiroJogo\bin\Debug\PrimeiroJogo.exe.config
+C:\Users\thaya\source\repos\PrimeiroJogo\bin\Debug\PrimeiroJogo.exe
+C:\Users\thaya\source\repos\PrimeiroJogo\bin\Debug\PrimeiroJogo.pdb
+C:\Users\thaya\source\repos\PrimeiroJogo\obj\Debug\PrimeiroJogo.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\PrimeiroJogo\obj\Debug\PrimeiroJogo.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\PrimeiroJogo\obj\Debug\PrimeiroJogo.exe
+C:\Users\thaya\source\repos\PrimeiroJogo\obj\Debug\PrimeiroJogo.pdb
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\bin\Debug\PrimeiroJogo.exe.config
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\bin\Debug\PrimeiroJogo.exe
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\bin\Debug\PrimeiroJogo.pdb
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\obj\Debug\PrimeiroJogo.csprojAssemblyReference.cache
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\obj\Debug\PrimeiroJogo.csproj.CoreCompileInputs.cache
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\obj\Debug\PrimeiroJogo.exe
+C:\Users\thaya\Desktop\Visual Studio\PrimeiroJogo\obj\Debug\PrimeiroJogo.pdb
